@@ -71,7 +71,9 @@ These are the actions the app exposes to the Shortcuts app.
 
 This repo includes a small set of scripts to help avoid committing local signing settings.
 
-- One-time (optional): `./scripts/install-githooks.sh` (runs `./clean.sh` before commits)
+- One-time (per clone): `./scripts/install-githooks.sh` (enables the `pre-commit` hook to run `./clean.sh` before commits)
 - Create local env: `cp .env.example .env`
 - Configure signing: `./configure.sh`
 - Build + run (macOS): `./build-macos.sh`
+
+^^

@@ -11,7 +11,6 @@ if [ ! -d ".git" ]; then
 fi
 
 chmod +x .githooks/pre-commit
-git config core.hooksPath .githooks
+git config --local core.hooksPath .githooks
 
 echo "Installed git hooks via core.hooksPath=.githooks"
-
