@@ -1,5 +1,13 @@
 # AI Shortcuts
 
+<p align="center">
+  <img width="256" height="1024" alt="AppIcon-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/74827c63-7cdb-4217-96d9-1926356c7d3c" />
+</p>
+
+<p align="center">
+  <img width="4320" height="2700" alt="1276@3x" src="https://github.com/user-attachments/assets/79289e5c-1e28-441f-a8eb-b438169e57e4" />
+</p>
+
 This app provides Siri Shortcuts to interact with AI.
 
 The app itself provides configuration for the shortcuts; the actual shortcut building blocks are available in the Shortcuts app on iOS / macOS.
