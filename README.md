@@ -8,6 +8,10 @@ This app is compatible with macOS and iOS.
 
 Under the hood, the app uses [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI).
 
+## Privacy
+
+See `PRIVACY_POLICY.md`.
+
 ## Shortcuts (App Intents)
 
 These are the actions the app exposes to the Shortcuts app.
