@@ -1,0 +1,11 @@
+.DS_Store
+
+# Local env / secrets
+.env
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcuserdata/
+*.backup
