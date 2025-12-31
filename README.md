@@ -6,11 +6,7 @@
 
 This app provides Siri Shortcuts to interact with AI.
 
-The app itself provides configuration for the shortcuts; the actual shortcut building blocks are available in the Shortcuts app on iOS / macOS.
-
-This app is compatible with macOS and iOS.
-
-Under the hood, the app uses [MacPaw/OpenAI](https://github.com/MacPaw/OpenAI).
+Download on the App Store soon.
 
 ## Privacy
 
